@@ -1,0 +1,23 @@
+body{
+    background-color: blanchedalmond;
+}
+.title{
+    border: solid orange;
+    text-align: center;
+}
+.description{
+    border: solid red;
+    padding: 12px;
+    margin: 12px
+}
+.nanapic{
+    height: 350px;
+    margin-left: 25%;
+    
+}
+.ingredients{
+    text-align: center;
+}
+.item{
+    text-align: center;
+}
